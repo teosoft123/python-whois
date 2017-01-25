@@ -1,0 +1,43 @@
+
+% Copyright (c) Nic.br
+%  The use of the data below is only permitted as described in
+%  full by the terms of use at http://registro.br/termo/en.html ,
+%  being prohibited its distribution, commercialization or
+%  reproduction, in particular, to use it for advertising or
+%  any similar purpose.
+%  2017-01-25 21:31:04 (BRST -02:00)
+
+domain:      actaengenharia.com.br
+owner:       Acta Engenharia Ltda
+owner-c:     GMHSI
+admin-c:     GMHSI
+tech-c:      CJA17
+billing-c:   GMHSI
+nserver:     ns1.viprede.com.br
+nsstat:      20170125 AA
+nslastaa:    20170125
+nserver:     ns2.viprede.com.br
+nsstat:      20170125 AA
+nslastaa:    20170125
+created:     20011018 #661301
+changed:     20161011
+expires:     20171018
+status:      published
+
+nic-hdl-br:  GMHSI
+person:      Gustavo Macedo Haje Silva
+created:     20060623
+changed:     20060623
+
+nic-hdl-br:  CJA17
+person:      clério junio de almeida
+created:     20000614
+changed:     20161005
+
+% Security and mail abuse issues should also be addressed to
+% cert.br, http://www.cert.br/ , respectivelly to cert@cert.br
+% and mail-abuse@cert.br
+%
+% whois.registro.br accepts only direct match queries. Types
+% of queries are: domain (.br), registrant (tax ID), ticket,
+% provider, contact handle (ID), CIDR block, IP and ASN.
