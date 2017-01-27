@@ -5,7 +5,7 @@ A WHOIS retrieval and parsing library for Python.
 
 ## Dependencies
 
-None! All you need is the Python standard library.
+chardet 2.3.0+
 
 ## Instructions
 

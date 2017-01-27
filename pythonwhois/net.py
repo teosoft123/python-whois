@@ -1,7 +1,12 @@
-import socket, re, sys
 from codecs import encode, decode
+import socket
+import re
+import sys
+
+import chardet
+
 from . import shared
-from requests.packages import chardet
+
 
 def get_whois_raw(domain, server="", previous=None, rfc3490=True, never_cut=False, with_server_list=False, server_list=None):
 	previous = previous or []
